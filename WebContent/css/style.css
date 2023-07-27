@@ -73,3 +73,11 @@ button {
     text-align: center;
 }
 
+#flush_success{
+    width: 100%;
+    padding-top: 28px;
+    padding-left: 25;
+    padding-bottom: 15px;
+    color: #155724;
+    background-color: #d4edda;
+}
